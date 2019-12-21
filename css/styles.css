@@ -1,11 +1,6 @@
-/* general */
-
 html {
     font-family: Helvetica, sans-serif;
 }
-
-
-/* header */
 
 .banner {
     width: 100%;
@@ -80,9 +75,6 @@ html {
     margin-bottom: 30px;
     font-size: 24px;
 }
-
-
-/* Serviços */
 
 .services-container {
     max-width: 1200px;
@@ -162,9 +154,6 @@ html {
     background-color: #73BFB8;
 }
 
-
-/* Sobre a empresa */
-
 .footer-container {
     background-image: url('../img/rodape.jpg');
     background-position: center;
@@ -203,9 +192,6 @@ html {
     color: #888;
     text-align: left;
 }
-
-
-/* footer */
 
 footer {
     clear: both;
